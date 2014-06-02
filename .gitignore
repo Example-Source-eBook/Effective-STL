@@ -23,6 +23,7 @@
 # solution files
 *.sdf
 *.opensdf
+*.suo
 
 *\Release
 *\Debug
