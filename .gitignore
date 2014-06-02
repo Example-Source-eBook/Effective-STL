@@ -22,6 +22,7 @@
 
 # solution files
 *.sdf
+*.opensdf
 
 *\Release
 *\Debug
