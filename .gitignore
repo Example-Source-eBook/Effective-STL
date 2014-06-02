@@ -19,3 +19,10 @@
 *.exe
 *.out
 *.app
+
+# solution files
+*.sdf
+
+*\Release
+*\Debug
+*\ipch
